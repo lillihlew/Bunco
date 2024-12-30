@@ -1,0 +1,2992 @@
+/*Assignment 4 (GitLog): Lilli Lewis 
+ * 10/26/23
+ * I confirm that the above list of sources is complete AND that I have 
+ *  not talked to anyone else about the solution to this problem.*/
+ I apologize for the length of the file. I'm showing that you can play with 1 player first, 
+  last, after 1, after 2 player, and after 3 player, and I'm doing the same thing with 
+  every other number of players. I am sure that the requirements are met within Run One,
+  which is why it's at the top. It includes 1 player, 2 player, and 3 player. 
+ 
+ 
+ ************************Run One: Bunco 1 player, 2 player, then 3 player
+ Hello! Welcome to the Bunco game.
+How many players will there be, excluding me?
+1
+Sounds good! What is your name?
+Jimenez
+Nice to meet you, Jimenez.
+To decide who goes first, let's both shake the die cup! I'll go first!
+I rolled:
+1, 2, 2
+Your turn! Hit enter to shake the dice box
+
+You rolled:
+6, 6, 3
+Since you rolled a higher sum, you'll go first!
+----------ROUND 1---------- 
+Jimenez's points: 0 Comp's points: 0
+Jimenez's turn!
+Hit enter to shake the dice box!
+
+Jimenez's roll: 
+4, 5, 4
+None of the die matched.
+After round 1: Jimenez's points: 0
+Comp's turn!
+Comp's roll: 
+5, 5, 2
+None of the die matched.
+After round 1: Comp's points: 0
+----------ROUND 2---------- 
+Jimenez's points: 0 Comp's points: 0
+Jimenez's turn!
+Hit enter to shake the dice box!
+
+Jimenez's roll: 
+1, 6, 3
+None of the die matched.
+After round 2: Jimenez's points: 0
+Comp's turn!
+Comp's roll: 
+5, 3, 3
+None of the die matched.
+After round 2: Comp's points: 0
+----------ROUND 3---------- 
+Jimenez's points: 0 Comp's points: 0
+Jimenez's turn!
+Hit enter to shake the dice box!
+
+Jimenez's roll: 
+6, 1, 3
+1 of the die matched, so Jimenez gets 1 points.
+Hit enter to shake the dice box again
+
+Jimenez's roll: 
+1, 3, 2
+1 of the die matched, so Jimenez gets 1 points.
+Hit enter to shake the dice box again
+
+Jimenez's roll: 
+3, 5, 5
+1 of the die matched, so Jimenez gets 1 points.
+Hit enter to shake the dice box again
+
+Jimenez's roll: 
+5, 3, 5
+1 of the die matched, so Jimenez gets 1 points.
+Hit enter to shake the dice box again
+
+Jimenez's roll: 
+5, 3, 1
+1 of the die matched, so Jimenez gets 1 points.
+Hit enter to shake the dice box again
+
+Jimenez's roll: 
+6, 1, 5
+None of the die matched.
+After round 3: Jimenez's points: 5
+Comp's turn!
+Comp's roll: 
+3, 4, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 1, 1
+None of the die matched.
+After round 3: Comp's points: 1
+----------ROUND 4---------- 
+Jimenez's points: 5 Comp's points: 1
+Jimenez's turn!
+Hit enter to shake the dice box!
+
+Jimenez's roll: 
+6, 3, 3
+None of the die matched.
+After round 4: Jimenez's points: 5
+Comp's turn!
+Comp's roll: 
+4, 6, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+6, 6, 6
+None of the die matched.
+After round 4: Comp's points: 2
+----------ROUND 5---------- 
+Jimenez's points: 5 Comp's points: 2
+Jimenez's turn!
+Hit enter to shake the dice box!
+
+Jimenez's roll: 
+5, 2, 5
+2 of the die matched, so Jimenez gets 2 points.
+Hit enter to shake the dice box again
+
+Jimenez's roll: 
+2, 2, 1
+None of the die matched.
+After round 5: Jimenez's points: 7
+Comp's turn!
+Comp's roll: 
+1, 3, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 3, 3
+None of the die matched.
+After round 5: Comp's points: 3
+----------ROUND 6---------- 
+Jimenez's points: 7 Comp's points: 3
+Jimenez's turn!
+Hit enter to shake the dice box!
+
+Jimenez's roll: 
+1, 2, 1
+None of the die matched.
+After round 6: Jimenez's points: 7
+Comp's turn!
+Comp's roll: 
+5, 5, 2
+None of the die matched.
+Congratulations, Jimenez, you won with 7 points!
+Total number of games played: 1
+Total number of ties: 0
+Total number of games won by Comp: 0
+Total number of games won by Jimenez: 1
+Would you like to play again?
+yes
+Would you like to play with the same players?
+no
+How many players will there be, excluding me?
+2
+Sounds good! What is your name?
+Elizabeth
+Nice to meet you, Elizabeth.
+What is the second person's name?
+Lilli
+Welcome to the game, Elizabeth and Lilli
+To decide who goes first, let's all roll a die. I'll go first:
+I rolled a 4
+Your turn, Elizabeth. Hit enter to roll a die.
+
+Elizabeth rolled a 3
+Your turn, Lilli. Hit enter to roll a die.
+
+Lilli rolled a 3
+Since Comp had the highest roll, Comp will go first.
+----------ROUND: 1----------
+Comp's turn!
+Comp's roll: 
+6, 5, 5
+None of the die matched.
+After round 1: Comp's points: 0
+Elizabeth's turn!
+Hit enter to shake the dice box!
+
+Elizabeth's roll: 
+1, 4, 3
+1 of the die matched, so Elizabeth gets 1 points.
+Hit enter to shake the dice box again
+
+Elizabeth's roll: 
+2, 3, 4
+None of the die matched.
+After round 1: Elizabeth's points: 1
+Lilli's turn!
+Hit enter to shake the dice box!
+
+Lilli's roll: 
+6, 3, 3
+None of the die matched.
+After round 1: Lilli's points: 0
+Points at end of round 1
+Comp: 0 Elizabeth: 1 Lilli: 0 
+----------ROUND: 2----------
+Comp's turn!
+Comp's roll: 
+2, 6, 4
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 2, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+2, 1, 3
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 1, 1
+None of the die matched.
+After round 2: Comp's points: 3
+Elizabeth's turn!
+Hit enter to shake the dice box!
+
+Elizabeth's roll: 
+1, 5, 4
+None of the die matched.
+After round 2: Elizabeth's points: 1
+Lilli's turn!
+Hit enter to shake the dice box!
+
+Lilli's roll: 
+6, 4, 3
+None of the die matched.
+After round 2: Lilli's points: 0
+Points at end of round 2
+Comp: 3 Elizabeth: 1 Lilli: 0 
+----------ROUND: 3----------
+Comp's turn!
+Comp's roll: 
+2, 3, 3
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+6, 6, 6
+None of the die matched.
+After round 3: Comp's points: 5
+Elizabeth's turn!
+Hit enter to shake the dice box!
+
+Elizabeth's roll: 
+3, 1, 1
+1 of the die matched, so Elizabeth gets 1 points.
+Hit enter to shake the dice box again
+
+Elizabeth's roll: 
+1, 5, 4
+None of the die matched.
+After round 3: Elizabeth's points: 2
+Lilli's turn!
+Hit enter to shake the dice box!
+
+Lilli's roll: 
+5, 2, 4
+None of the die matched.
+After round 3: Lilli's points: 0
+Points at end of round 3
+Comp: 5 Elizabeth: 2 Lilli: 0 
+----------ROUND: 4----------
+Comp's turn!
+Comp's roll: 
+6, 1, 4
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+1, 5, 1
+None of the die matched.
+After round 4: Comp's points: 6
+Elizabeth's turn!
+Hit enter to shake the dice box!
+
+Elizabeth's roll: 
+3, 6, 6
+None of the die matched.
+After round 4: Elizabeth's points: 2
+Lilli's turn!
+Hit enter to shake the dice box!
+
+Lilli's roll: 
+6, 1, 1
+None of the die matched.
+After round 4: Lilli's points: 0
+Points at end of round 4
+Comp: 6 Elizabeth: 2 Lilli: 0 
+----------ROUND: 5----------
+Comp's turn!
+Comp's roll: 
+1, 2, 6
+None of the die matched.
+After round 5: Comp's points: 6
+Elizabeth's turn!
+Hit enter to shake the dice box!
+
+Elizabeth's roll: 
+2, 3, 2
+None of the die matched.
+After round 5: Elizabeth's points: 2
+Lilli's turn!
+Hit enter to shake the dice box!
+
+Lilli's roll: 
+5, 4, 6
+1 of the die matched, so Lilli gets 1 points.
+Hit enter to shake the dice box again
+
+Lilli's roll: 
+1, 6, 1
+None of the die matched.
+After round 5: Lilli's points: 1
+Points at end of round 5
+Comp: 6 Elizabeth: 2 Lilli: 1 
+----------ROUND: 6----------
+Comp's turn!
+Comp's roll: 
+1, 5, 1
+None of the die matched.
+After round 6: Comp's points: 6
+Elizabeth's turn!
+Hit enter to shake the dice box!
+
+Elizabeth's roll: 
+6, 6, 3
+2 of the die matched, so Elizabeth gets 2 points.
+Hit enter to shake the dice box again
+
+Elizabeth's roll: 
+2, 1, 4
+None of the die matched.
+After round 6: Elizabeth's points: 4
+Lilli's turn!
+Hit enter to shake the dice box!
+
+Lilli's roll: 
+2, 3, 6
+1 of the die matched, so Lilli gets 1 points.
+Hit enter to shake the dice box again
+
+Lilli's roll: 
+3, 4, 2
+None of the die matched.
+Points at end of round 6
+Comp: 6 Elizabeth: 4 Lilli: 2 
+Comp won with 6 points!
+1 games have been played
+Comp has won 1 games.
+Elizabeth has won 0 games.
+Lilli has won 0 games.
+Would you like to play again?
+
+yes
+Would you like to play with the same players?
+no
+How many players will there be, excluding me?
+3
+Sounds good! What is your name?
+Pearl
+Nice to meet you, Pearl.
+What is the second person's name?
+Valerie
+What is the third person's name?
+Crab
+Welcome to the game, Pearl, Valerie, and Crab
+To decide who goes first, let's all roll a die. I'll go first:
+I rolled a 3
+Your turn, Pearl. Hit enter to roll a die.
+
+Pearl rolled a 6
+Your turn, Valerie. Hit enter to roll a die.
+
+Valerie rolled a 4
+Your turn, Crab. Hit enter to roll a die.
+
+Crab rolled a 5
+Since Pearl had the highest roll, Pearl will go first.
+----------ROUND: 1---------- 
+Pearl's turn!
+Hit enter to shake the dice box!
+
+Pearl's roll: 
+2, 1, 2
+1 of the die matched, so Pearl gets 1 points.
+Hit enter to shake the dice box again
+
+Pearl's roll: 
+2, 3, 2
+None of the die matched.
+After round 1: Pearl's points: 1
+Valerie's turn!
+Hit enter to shake the dice box!
+
+Valerie's roll: 
+2, 1, 6
+1 of the die matched, so Valerie gets 1 points.
+Hit enter to shake the dice box again
+
+Valerie's roll: 
+3, 1, 2
+1 of the die matched, so Valerie gets 1 points.
+Hit enter to shake the dice box again
+
+Valerie's roll: 
+2, 3, 1
+1 of the die matched, so Valerie gets 1 points.
+Hit enter to shake the dice box again
+
+Valerie's roll: 
+3, 1, 1
+2 of the die matched, so Valerie gets 2 points.
+Hit enter to shake the dice box again
+
+Valerie's roll: 
+5, 4, 3
+None of the die matched.
+After round 1: Valerie's points: 5
+Crab's turn!
+Hit enter to shake the dice box!
+
+
+Crab's roll: 
+1, 2, 2
+1 of the die matched, so Crab gets 1 points.
+Hit enter to shake the dice box again
+Crab's roll: 
+6, 2, 4
+None of the die matched.
+After round 1: Crab's points: 1
+Comp's turn!
+Comp's roll: 
+4, 6, 4
+None of the die matched.
+After round 1: Comp's points: 0
+Points at end of round 1
+Comp: 0 Pearl: 1 Valerie: 5 Crab: 1 
+----------ROUND: 2---------- 
+Pearl's turn!
+Hit enter to shake the dice box!
+
+Pearl's roll: 
+1, 5, 5
+None of the die matched.
+After round 2: Pearl's points: 1
+Valerie's turn!
+Hit enter to shake the dice box!
+
+Valerie's roll: 
+5, 5, 2
+1 of the die matched, so Valerie gets 1 points.
+Hit enter to shake the dice box again
+
+Valerie's roll: 
+3, 6, 4
+None of the die matched.
+After round 2: Valerie's points: 6
+Crab's turn!
+Hit enter to shake the dice box!
+
+Crab's roll: 
+4, 6, 6
+None of the die matched.
+After round 2: Crab's points: 1
+Comp's turn!
+Comp's roll: 
+5, 5, 3
+None of the die matched.
+After round 2: Comp's points: 0
+Points at end of round 2
+Comp: 0 Pearl: 1 Valerie: 6 Crab: 1 
+----------ROUND: 3---------- 
+Pearl's turn!
+Hit enter to shake the dice box!
+
+Pearl's roll: 
+4, 3, 1
+1 of the die matched, so Pearl gets 1 points.
+Hit enter to shake the dice box again
+
+Pearl's roll: 
+1, 4, 4
+None of the die matched.
+After round 3: Pearl's points: 2
+Valerie's turn!
+Hit enter to shake the dice box!
+
+Valerie's roll: 
+1, 5, 4
+None of the die matched.
+After round 3: Valerie's points: 6
+Crab's turn!
+Hit enter to shake the dice box!
+
+Crab's roll: 
+1, 5, 5
+None of the die matched.
+After round 3: Crab's points: 1
+Comp's turn!
+Comp's roll: 
+5, 5, 1
+None of the die matched.
+After round 3: Comp's points: 0
+Points at end of round 3
+Comp: 0 Pearl: 2 Valerie: 6 Crab: 1 
+----------ROUND: 4---------- 
+Pearl's turn!
+Hit enter to shake the dice box!
+
+
+Pearl's roll: 
+6, 4, 1
+1 of the die matched, so Pearl gets 1 points.
+Hit enter to shake the dice box again
+Pearl's roll: 
+2, 1, 4
+1 of the die matched, so Pearl gets 1 points.
+Hit enter to shake the dice box again
+
+Pearl's roll: 
+6, 1, 2
+None of the die matched.
+After round 4: Pearl's points: 4
+Valerie's turn!
+Hit enter to shake the dice box!
+
+Valerie's roll: 
+2, 2, 6
+None of the die matched.
+After round 4: Valerie's points: 6
+Crab's turn!
+Hit enter to shake the dice box!
+
+Crab's roll: 
+1, 6, 6
+None of the die matched.
+After round 4: Crab's points: 1
+Comp's turn!
+Comp's roll: 
+4, 4, 4
+Comp rolled a Bunco! They get 21 points
+Comp's roll: 
+4, 4, 6
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+1, 1, 3
+None of the die matched.
+After round 4: Comp's points: 23
+Points at end of round 4
+Comp: 23 Pearl: 4 Valerie: 6 Crab: 1 
+----------ROUND: 5---------- 
+Pearl's turn!
+Hit enter to shake the dice box!
+
+Pearl's roll: 
+3, 5, 2
+1 of the die matched, so Pearl gets 1 points.
+Hit enter to shake the dice box again
+
+Pearl's roll: 
+6, 4, 5
+1 of the die matched, so Pearl gets 1 points.
+Hit enter to shake the dice box again
+
+Pearl's roll: 
+6, 2, 6
+None of the die matched.
+After round 5: Pearl's points: 6
+Valerie's turn!
+Hit enter to shake the dice box!
+
+Valerie's roll: 
+6, 5, 2
+1 of the die matched, so Valerie gets 1 points.
+Hit enter to shake the dice box again
+
+Valerie's roll: 
+4, 1, 3
+None of the die matched.
+After round 5: Valerie's points: 7
+Crab's turn!
+Hit enter to shake the dice box!
+
+Crab's roll: 
+5, 6, 2
+1 of the die matched, so Crab gets 1 points.
+Hit enter to shake the dice box again
+
+Crab's roll: 
+3, 3, 3
+None of the die matched.
+After round 5: Crab's points: 2
+Comp's turn!
+Comp's roll: 
+2, 6, 1
+None of the die matched.
+After round 5: Comp's points: 23
+Points at end of round 5
+Comp: 23 Pearl: 6 Valerie: 7 Crab: 2 
+----------ROUND: 6---------- 
+Pearl's turn!
+Hit enter to shake the dice box!
+
+Pearl's roll: 
+3, 2, 4
+None of the die matched.
+After round 6: Pearl's points: 6
+Valerie's turn!
+Hit enter to shake the dice box!
+
+Valerie's roll: 
+1, 3, 1
+None of the die matched.
+After round 6: Valerie's points: 7
+Crab's turn!
+Hit enter to shake the dice box!
+
+Crab's roll: 
+2, 5, 4
+None of the die matched.
+After round 6: Crab's points: 2
+Comp's turn!
+Comp's roll: 
+1, 1, 5
+None of the die matched.
+Points at end of round 6
+Comp: 23 Pearl: 6 Valerie: 7 Crab: 2 
+Comp won with 23 points!
+1 games have been played
+Comp has won 1 games.
+Pearl has won 0 games.
+Valerie has won 0 games.
+Crab has won 0 games.
+Would you like to play again?
+
+
+no
+Goodbye! 
+ 
+ ************************Run Two: Bunco 1 player, 1 player, 3 player, 3 player
+ Hello! Welcome to the Bunco game.
+How many players will there be, excluding me?
+1
+Sounds good! What is your name?
+August
+Nice to meet you, August.
+To decide who goes first, let's both shake the die cup! I'll go first!
+I rolled:
+5, 2, 3
+Your turn! Hit enter to shake the dice box
+
+You rolled:
+1, 6, 6
+Since you rolled a higher sum, you'll go first!
+----------ROUND 1---------- 
+August's points: 0 Comp's points: 0
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+2, 5, 2
+None of the die matched.
+After round 1: August's points: 0
+Comp's turn!
+Comp's roll: 
+4, 4, 2
+None of the die matched.
+After round 1: Comp's points: 0
+----------ROUND 2---------- 
+August's points: 0 Comp's points: 0
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+1, 6, 6
+None of the die matched.
+After round 2: August's points: 0
+Comp's turn!
+Comp's roll: 
+2, 3, 4
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+4, 3, 3
+None of the die matched.
+After round 2: Comp's points: 1
+----------ROUND 3---------- 
+August's points: 0 Comp's points: 1
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+5, 4, 5
+None of the die matched.
+After round 3: August's points: 0
+Comp's turn!
+Comp's roll: 
+2, 6, 2
+None of the die matched.
+After round 3: Comp's points: 1
+----------ROUND 4---------- 
+August's points: 0 Comp's points: 1
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+5, 5, 2
+None of the die matched.
+After round 4: August's points: 0
+Comp's turn!
+Comp's roll: 
+2, 2, 6
+None of the die matched.
+After round 4: Comp's points: 1
+----------ROUND 5---------- 
+August's points: 0 Comp's points: 1
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+4, 4, 4
+None of the die matched.
+After round 5: August's points: 0
+Comp's turn!
+Comp's roll: 
+3, 6, 2
+None of the die matched.
+After round 5: Comp's points: 1
+----------ROUND 6---------- 
+August's points: 0 Comp's points: 1
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+5, 4, 3
+None of the die matched.
+After round 6: August's points: 0
+Comp's turn!
+Comp's roll: 
+4, 2, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 3, 1
+None of the die matched.
+Comp won with 2 points.
+Total number of games played: 1
+Total number of ties: 0
+Total number of games won by Comp: 1
+Total number of games won by August: 0
+Would you like to play again?
+
+
+yes
+Would you like to play with the same players?
+yes
+To decide who goes first, let's both shake the die cup! I'll go first!
+I rolled:
+1, 4, 4
+Your turn! Hit enter to shake the dice box
+
+You rolled:
+4, 5, 5
+Since you rolled a higher sum, you'll go first!
+----------ROUND 1---------- 
+August's points: 0 Comp's points: 0
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+2, 5, 1
+1 of the die matched, so August gets 1 points.
+Hit enter to shake the dice box again
+
+August's roll: 
+5, 2, 1
+1 of the die matched, so August gets 1 points.
+Hit enter to shake the dice box again
+
+August's roll: 
+6, 3, 5
+None of the die matched.
+After round 1: August's points: 2
+Comp's turn!
+Comp's roll: 
+4, 1, 1
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+2, 4, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+6, 5, 6
+None of the die matched.
+After round 1: Comp's points: 3
+----------ROUND 2---------- 
+August's points: 2 Comp's points: 3
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+4, 6, 3
+None of the die matched.
+After round 2: August's points: 2
+Comp's turn!
+Comp's roll: 
+2, 5, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 3, 3
+None of the die matched.
+After round 2: Comp's points: 4
+----------ROUND 3---------- 
+August's points: 2 Comp's points: 4
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+4, 3, 5
+1 of the die matched, so August gets 1 points.
+Hit enter to shake the dice box again
+
+August's roll: 
+2, 6, 5
+None of the die matched.
+After round 3: August's points: 3
+Comp's turn!
+Comp's roll: 
+3, 1, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+2, 4, 6
+None of the die matched.
+After round 3: Comp's points: 5
+----------ROUND 4---------- 
+August's points: 3 Comp's points: 5
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+3, 1, 6
+None of the die matched.
+After round 4: August's points: 3
+Comp's turn!
+Comp's roll: 
+1, 6, 1
+None of the die matched.
+After round 4: Comp's points: 5
+----------ROUND 5---------- 
+August's points: 3 Comp's points: 5
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+1, 4, 5
+1 of the die matched, so August gets 1 points.
+Hit enter to shake the dice box again
+
+August's roll: 
+5, 1, 5
+2 of the die matched, so August gets 2 points.
+Hit enter to shake the dice box again
+
+August's roll: 
+1, 2, 6
+None of the die matched.
+After round 5: August's points: 6
+Comp's turn!
+Comp's roll: 
+5, 6, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 2, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+2, 1, 1
+None of the die matched.
+After round 5: Comp's points: 7
+----------ROUND 6---------- 
+August's points: 6 Comp's points: 7
+August's turn!
+Hit enter to shake the dice box!
+
+August's roll: 
+5, 6, 5
+1 of the die matched, so August gets 1 points.
+Hit enter to shake the dice box again
+
+August's roll: 
+4, 2, 2
+None of the die matched.
+After round 6: August's points: 7
+Comp's turn!
+Comp's roll: 
+5, 1, 2
+None of the die matched.
+We tied, each with 7 points. Nobody wins.
+Total number of games played: 2
+Total number of ties: 1
+Total number of games won by Comp: 1
+Total number of games won by August: 0
+Would you like to play again?
+yes
+Would you like to play with the same players?
+no
+How many players will there be, excluding me?
+3
+Sounds good! What is your name?
+Tessa
+Nice to meet you, Tessa.
+What is the second person's name?
+Sydney
+What is the third person's name?
+Sophia
+Welcome to the game, Tessa, Sydney, and Sophia
+To decide who goes first, let's all roll a die. I'll go first:
+I rolled a 6
+Your turn, Tessa. Hit enter to roll a die.
+
+Tessa rolled a 3
+Your turn, Sydney. Hit enter to roll a die.
+
+Sydney rolled a 2
+Your turn, Sophia. Hit enter to roll a die.
+
+Sophia rolled a 3
+Since Comp had the highest roll, Comp will go first.
+----------ROUND: 1---------- 
+Comp's turn!
+Comp's roll: 
+4, 1, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 6, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+2, 3, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+2, 3, 5
+None of the die matched.
+After round 1: Comp's points: 3
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+3, 6, 3
+None of the die matched.
+After round 1: Tessa's points: 0
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+3, 1, 4
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+
+Sydney's roll: 
+3, 6, 6
+None of the die matched.
+After round 1: Sydney's points: 1
+Sophia's turn!
+Hit enter to shake the dice box!
+Sophia's roll: 
+1, 2, 5
+1 of the die matched, so Sophia gets 1 points.
+Hit enter to shake the dice box again
+
+Sophia's roll: 
+1, 1, 1
+Sophia rolled a Bunco! They get 21 points
+Hit enter to shake the dice box again
+
+Sophia's roll: 
+5, 5, 6
+None of the die matched.
+After round 1: Sophia's points: 22
+Points at end of round 1
+Comp: 3 Tessa: 0 Sydney: 1 Sophia: 22 
+----------ROUND: 2---------- 
+Comp's turn!
+Comp's roll: 
+2, 2, 6
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+4, 3, 1
+None of the die matched.
+After round 2: Comp's points: 5
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+6, 3, 5
+None of the die matched.
+After round 2: Tessa's points: 0
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+6, 2, 3
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+6, 1, 4
+None of the die matched.
+After round 2: Sydney's points: 2
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+1, 3, 1
+None of the die matched.
+After round 2: Sophia's points: 22
+Points at end of round 2
+Comp: 5 Tessa: 0 Sydney: 2 Sophia: 22 
+----------ROUND: 3---------- 
+Comp's turn!
+Comp's roll: 
+5, 2, 1
+None of the die matched.
+After round 3: Comp's points: 5
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+4, 5, 2
+None of the die matched.
+After round 3: Tessa's points: 0
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+6, 6, 3
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+3, 4, 6
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+3, 5, 6
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+
+Sydney's roll: 
+1, 1, 5
+None of the die matched.
+After round 3: Sydney's points: 5
+Sophia's turn!
+Hit enter to shake the dice box!
+Sophia's roll: 
+1, 6, 2
+None of the die matched.
+After round 3: Sophia's points: 22
+Points at end of round 3
+Comp: 5 Tessa: 0 Sydney: 5 Sophia: 22 
+----------ROUND: 4---------- 
+Comp's turn!
+Comp's roll: 
+1, 4, 2
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+4, 5, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+6, 4, 3
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+4, 3, 4
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+3, 3, 4
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 2, 3
+None of the die matched.
+After round 4: Comp's points: 11
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+1, 3, 3
+None of the die matched.
+After round 4: Tessa's points: 0
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+2, 3, 5
+None of the die matched.
+After round 4: Sydney's points: 5
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+5, 4, 1
+1 of the die matched, so Sophia gets 1 points.
+Hit enter to shake the dice box again
+
+Sophia's roll: 
+2, 1, 1
+None of the die matched.
+After round 4: Sophia's points: 23
+Points at end of round 4
+Comp: 11 Tessa: 0 Sydney: 5 Sophia: 23 
+----------ROUND: 5---------- 
+Comp's turn!
+Comp's roll: 
+2, 6, 3
+None of the die matched.
+After round 5: Comp's points: 11
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+4, 4, 1
+None of the die matched.
+After round 5: Tessa's points: 0
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+1, 6, 2
+None of the die matched.
+After round 5: Sydney's points: 5
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+2, 5, 5
+2 of the die matched, so Sophia gets 2 points.
+Hit enter to shake the dice box again
+
+Sophia's roll: 
+5, 6, 6
+1 of the die matched, so Sophia gets 1 points.
+Hit enter to shake the dice box again
+
+Sophia's roll: 
+1, 3, 3
+None of the die matched.
+After round 5: Sophia's points: 26
+Points at end of round 5
+Comp: 11 Tessa: 0 Sydney: 5 Sophia: 26 
+----------ROUND: 6---------- 
+Comp's turn!
+Comp's roll: 
+4, 5, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 6, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 3, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 2, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+6, 2, 3
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+2, 1, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+6, 1, 6
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+2, 4, 1
+None of the die matched.
+After round 6: Comp's points: 19
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+1, 1, 5
+None of the die matched.
+After round 6: Tessa's points: 0
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+6, 4, 2
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+4, 6, 2
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+4, 6, 6
+2 of the die matched, so Sydney gets 2 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+6, 6, 2
+2 of the die matched, so Sydney gets 2 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+5, 5, 2
+None of the die matched.
+After round 6: Sydney's points: 11
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+5, 4, 6
+1 of the die matched, so Sophia gets 1 points.
+Hit enter to shake the dice box again
+
+Sophia's roll: 
+2, 2, 4
+None of the die matched.
+Points at end of round 6
+Comp: 19 Tessa: 0 Sydney: 11 Sophia: 27 
+Sophia won with 27 points!
+1 games have been played
+Comp has won 0 games.
+Tessa has won 0 games.
+Sydney has won 0 games.
+Sophia has won 1 games.
+Would you like to play again?
+yes
+Would you like to play with the same players?
+yes
+To decide who goes first, let's all roll a die. I'll go first:
+I rolled a 5
+Your turn, Tessa. Hit enter to roll a die.
+
+Tessa rolled a 1
+Your turn, Sydney. Hit enter to roll a die.
+
+Sydney rolled a 6
+Your turn, Sophia. Hit enter to roll a die.
+
+Sophia rolled a 5
+Since Sydney had the highest roll, Sydney will go first.
+----------ROUND: 1---------- 
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+4, 5, 5
+None of the die matched.
+After round 1: Sydney's points: 0
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+2, 4, 2
+None of the die matched.
+After round 1: Sophia's points: 0
+Comp's turn!
+Comp's roll: 
+6, 2, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 5, 3
+None of the die matched.
+After round 1: Comp's points: 1
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+1, 3, 3
+1 of the die matched, so Tessa gets 1 points.
+Hit enter to shake the dice box again
+
+Tessa's roll: 
+2, 6, 2
+None of the die matched.
+After round 1: Tessa's points: 1
+Points at end of round 1
+Comp: 1 Tessa: 1 Sydney: 0 Sophia: 0 
+----------ROUND: 2---------- 
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+2, 1, 6
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+6, 2, 5
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+5, 2, 6
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+1, 5, 5
+None of the die matched.
+After round 2: Sydney's points: 3
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+3, 5, 6
+None of the die matched.
+After round 2: Sophia's points: 0
+Comp's turn!
+Comp's roll: 
+1, 5, 1
+None of the die matched.
+After round 2: Comp's points: 1
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+4, 1, 5
+None of the die matched.
+After round 2: Tessa's points: 1
+Points at end of round 2
+Comp: 1 Tessa: 1 Sydney: 3 Sophia: 0 
+----------ROUND: 3---------- 
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+4, 3, 4
+1 of the die matched, so Sydney gets 1 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+1, 4, 6
+None of the die matched.
+After round 3: Sydney's points: 4
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+6, 1, 6
+None of the die matched.
+After round 3: Sophia's points: 0
+Comp's turn!
+Comp's roll: 
+1, 1, 3
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+1, 4, 1
+None of the die matched.
+After round 3: Comp's points: 2
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+1, 1, 5
+None of the die matched.
+After round 3: Tessa's points: 1
+Points at end of round 3
+Comp: 2 Tessa: 1 Sydney: 4 Sophia: 0 
+----------ROUND: 4---------- 
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+5, 6, 5
+None of the die matched.
+After round 4: Sydney's points: 4
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+4, 2, 4
+2 of the die matched, so Sophia gets 2 points.
+Hit enter to shake the dice box again
+
+Sophia's roll: 
+1, 2, 3
+None of the die matched.
+After round 4: Sophia's points: 2
+Comp's turn!
+Comp's roll: 
+5, 2, 1
+None of the die matched.
+After round 4: Comp's points: 2
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+3, 4, 3
+1 of the die matched, so Tessa gets 1 points.
+Hit enter to shake the dice box again
+
+Tessa's roll: 
+4, 3, 6
+1 of the die matched, so Tessa gets 1 points.
+Hit enter to shake the dice box again
+
+Tessa's roll: 
+1, 5, 4
+1 of the die matched, so Tessa gets 1 points.
+Hit enter to shake the dice box again
+
+Tessa's roll: 
+1, 5, 6
+None of the die matched.
+After round 4: Tessa's points: 4
+Points at end of round 4
+Comp: 2 Tessa: 4 Sydney: 4 Sophia: 2 
+----------ROUND: 5---------- 
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+2, 4, 1
+None of the die matched.
+After round 5: Sydney's points: 4
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+6, 2, 4
+None of the die matched.
+After round 5: Sophia's points: 2
+Comp's turn!
+Comp's roll: 
+2, 6, 4
+None of the die matched.
+After round 5: Comp's points: 2
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+3, 4, 2
+None of the die matched.
+After round 5: Tessa's points: 4
+Points at end of round 5
+Comp: 2 Tessa: 4 Sydney: 4 Sophia: 2 
+----------ROUND: 6---------- 
+Sydney's turn!
+Hit enter to shake the dice box!
+
+Sydney's roll: 
+5, 6, 6
+2 of the die matched, so Sydney gets 2 points.
+Hit enter to shake the dice box again
+
+Sydney's roll: 
+1, 4, 1
+None of the die matched.
+After round 6: Sydney's points: 6
+Sophia's turn!
+Hit enter to shake the dice box!
+
+Sophia's roll: 
+2, 3, 1
+None of the die matched.
+After round 6: Sophia's points: 2
+Comp's turn!
+Comp's roll: 
+1, 5, 1
+None of the die matched.
+After round 6: Comp's points: 2
+Tessa's turn!
+Hit enter to shake the dice box!
+
+Tessa's roll: 
+2, 5, 1
+None of the die matched.
+Points at end of round 6
+Comp: 2 Tessa: 4 Sydney: 6 Sophia: 2 
+Sydney won with 6 points!
+2 games have been played
+Comp has won 0 games.
+Tessa has won 0 games.
+Sydney has won 1 games.
+Sophia has won 1 games.
+Would you like to play again?
+
+
+
+
+
+
+no
+Goodbye!
+ 
+ 
+ ************************Run Three: Bunco 2 player, 2 player, then 1 player
+ Hello! Welcome to the Bunco game.
+How many players will there be, excluding me?
+2
+Sounds good! What is your name?
+Bernice
+Nice to meet you, Bernice.
+What is the second person's name?
+Valentine
+Welcome to the game, Bernice and Valentine
+To decide who goes first, let's all roll a die. I'll go first:
+I rolled a 4
+Your turn, Bernice. Hit enter to roll a die.
+
+Bernice rolled a 5
+Your turn, Valentine. Hit enter to roll a die.
+
+Valentine rolled a 2
+Since Bernice had the highest roll, Bernice will go first.
+----------ROUND: 1----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+4, 6, 3
+None of the die matched.
+After round 1: Bernice's points: 0
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+3, 2, 4
+None of the die matched.
+After round 1: Valentine's points: 0
+Comp's turn!
+Comp's roll: 
+3, 4, 2
+None of the die matched.
+After round 1: Comp's points: 0
+Points at end of round 1
+Comp: 0 Bernice: 0 Valentine: 0 
+----------ROUND: 2----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+1, 3, 2
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+6, 4, 2
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+6, 6, 6
+None of the die matched.
+After round 2: Bernice's points: 2
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+3, 1, 3
+None of the die matched.
+After round 2: Valentine's points: 0
+Comp's turn!
+Comp's roll: 
+3, 3, 3
+None of the die matched.
+After round 2: Comp's points: 0
+Points at end of round 2
+Comp: 0 Bernice: 2 Valentine: 0 
+----------ROUND: 3----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+2, 6, 2
+None of the die matched.
+After round 3: Bernice's points: 2
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+5, 1, 6
+None of the die matched.
+After round 3: Valentine's points: 0
+Comp's turn!
+Comp's roll: 
+2, 3, 2
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 3, 3
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+3, 6, 4
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+4, 4, 5
+None of the die matched.
+After round 3: Comp's points: 4
+Points at end of round 3
+Comp: 4 Bernice: 2 Valentine: 0 
+----------ROUND: 4----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+6, 5, 4
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+4, 6, 6
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+6, 6, 6
+None of the die matched.
+After round 4: Bernice's points: 4
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+2, 4, 5
+1 of the die matched, so Valentine gets 1 points.
+Hit enter to shake the dice box again
+
+Valentine's roll: 
+6, 3, 6
+None of the die matched.
+After round 4: Valentine's points: 1
+Comp's turn!
+Comp's roll: 
+4, 3, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+6, 1, 5
+None of the die matched.
+After round 4: Comp's points: 5
+Points at end of round 4
+Comp: 5 Bernice: 4 Valentine: 1 
+----------ROUND: 5----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+3, 4, 5
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+3, 2, 2
+None of the die matched.
+After round 5: Bernice's points: 5
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+3, 3, 4
+None of the die matched.
+After round 5: Valentine's points: 1
+Comp's turn!
+Comp's roll: 
+2, 5, 2
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 5, 3
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 6, 4
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+2, 2, 4
+None of the die matched.
+After round 5: Comp's points: 8
+Points at end of round 5
+Comp: 8 Bernice: 5 Valentine: 1 
+----------ROUND: 6----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+6, 4, 5
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+6, 4, 5
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+1, 1, 6
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+5, 3, 4
+None of the die matched.
+After round 6: Bernice's points: 8
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+4, 4, 4
+None of the die matched.
+After round 6: Valentine's points: 1
+Comp's turn!
+Comp's roll: 
+2, 3, 4
+None of the die matched.
+Points at end of round 6
+Comp: 8 Bernice: 8 Valentine: 1 
+There was a tie, so there are no winners.
+1 games have been played
+Comp has won 0 games.
+Bernice has won 0 games.
+Valentine has won 0 games.
+Would you like to play again?
+
+yes
+Would you like to play with the same players?
+yes
+To decide who goes first, let's all roll a die. I'll go first:
+I rolled a 1
+Your turn, Bernice. Hit enter to roll a die.
+
+Bernice rolled a 4
+Your turn, Valentine. Hit enter to roll a die.
+
+Valentine rolled a 3
+Since Bernice had the highest roll, Bernice will go first.
+----------ROUND: 1----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+6, 1, 5
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+6, 1, 2
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+5, 4, 2
+None of the die matched.
+After round 1: Bernice's points: 2
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+1, 3, 5
+1 of the die matched, so Valentine gets 1 points.
+Hit enter to shake the dice box again
+
+Valentine's roll: 
+1, 3, 1
+2 of the die matched, so Valentine gets 2 points.
+Hit enter to shake the dice box again
+
+Valentine's roll: 
+4, 1, 3
+1 of the die matched, so Valentine gets 1 points.
+Hit enter to shake the dice box again
+
+Valentine's roll: 
+4, 1, 4
+1 of the die matched, so Valentine gets 1 points.
+Hit enter to shake the dice box again
+
+Valentine's roll: 
+3, 4, 3
+None of the die matched.
+After round 1: Valentine's points: 5
+Comp's turn!
+Comp's roll: 
+5, 4, 3
+None of the die matched.
+After round 1: Comp's points: 0
+Points at end of round 1
+Comp: 0 Bernice: 2 Valentine: 5 
+----------ROUND: 2----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+6, 5, 6
+None of the die matched.
+After round 2: Bernice's points: 2
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+4, 6, 6
+None of the die matched.
+After round 2: Valentine's points: 5
+Comp's turn!
+Comp's roll: 
+1, 5, 3
+None of the die matched.
+After round 2: Comp's points: 0
+Points at end of round 2
+Comp: 0 Bernice: 2 Valentine: 5 
+----------ROUND: 3----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+2, 2, 4
+None of the die matched.
+After round 3: Bernice's points: 2
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+6, 4, 6
+None of the die matched.
+After round 3: Valentine's points: 5
+Comp's turn!
+Comp's roll: 
+5, 1, 6
+None of the die matched.
+After round 3: Comp's points: 0
+Points at end of round 3
+Comp: 0 Bernice: 2 Valentine: 5 
+----------ROUND: 4----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+5, 2, 4
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+6, 2, 1
+None of the die matched.
+After round 4: Bernice's points: 3
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+3, 5, 1
+None of the die matched.
+After round 4: Valentine's points: 5
+Comp's turn!
+Comp's roll: 
+6, 2, 5
+None of the die matched.
+After round 4: Comp's points: 0
+Points at end of round 4
+Comp: 0 Bernice: 3 Valentine: 5 
+----------ROUND: 5----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+5, 3, 5
+2 of the die matched, so Bernice gets 2 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+6, 6, 1
+None of the die matched.
+After round 5: Bernice's points: 5
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+6, 1, 1
+None of the die matched.
+After round 5: Valentine's points: 5
+Comp's turn!
+Comp's roll: 
+1, 1, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 2, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+4, 2, 1
+None of the die matched.
+After round 5: Comp's points: 2
+Points at end of round 5
+Comp: 2 Bernice: 5 Valentine: 5 
+----------ROUND: 6----------
+Bernice's turn!
+Hit enter to shake the dice box!
+
+Bernice's roll: 
+4, 3, 6
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+3, 2, 6
+1 of the die matched, so Bernice gets 1 points.
+Hit enter to shake the dice box again
+
+Bernice's roll: 
+5, 4, 5
+None of the die matched.
+After round 6: Bernice's points: 7
+Valentine's turn!
+Hit enter to shake the dice box!
+
+Valentine's roll: 
+4, 3, 4
+None of the die matched.
+After round 6: Valentine's points: 5
+Comp's turn!
+Comp's roll: 
+4, 1, 2
+None of the die matched.
+Points at end of round 6
+Comp: 2 Bernice: 7 Valentine: 5 
+Bernice won with 7 points!
+2 games have been played
+Comp has won 0 games.
+Bernice has won 1 games.
+Valentine has won 0 games.
+Would you like to play again?
+
+yes
+Would you like to play with the same players?
+no
+How many players will there be, excluding me?
+1
+Sounds good! What is your name?
+Andrew
+Nice to meet you, Andrew.
+To decide who goes first, let's both shake the die cup! I'll go first!
+I rolled:
+1, 5, 4
+Your turn! Hit enter to shake the dice box
+
+You rolled:
+1, 6, 6
+Since you rolled a higher sum, you'll go first!
+----------ROUND 1---------- 
+Andrew's points: 0 Comp's points: 0
+Andrew's turn!
+Hit enter to shake the dice box!
+
+
+Andrew's roll: 
+5, 6, 5
+None of the die matched.
+After round 1: Andrew's points: 0
+Comp's turn!
+Comp's roll: 
+3, 5, 6
+None of the die matched.
+After round 1: Comp's points: 0
+----------ROUND 2---------- 
+Andrew's points: 0 Comp's points: 0
+Andrew's turn!
+Hit enter to shake the dice box!
+Andrew's roll: 
+1, 6, 6
+None of the die matched.
+After round 2: Andrew's points: 0
+Comp's turn!
+Comp's roll: 
+5, 5, 2
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+6, 5, 5
+None of the die matched.
+After round 2: Comp's points: 1
+----------ROUND 3---------- 
+Andrew's points: 0 Comp's points: 1
+Andrew's turn!
+Hit enter to shake the dice box!
+
+Andrew's roll: 
+2, 3, 5
+1 of the die matched, so Andrew gets 1 points.
+Hit enter to shake the dice box again
+
+Andrew's roll: 
+1, 5, 6
+None of the die matched.
+After round 3: Andrew's points: 1
+Comp's turn!
+Comp's roll: 
+5, 6, 6
+None of the die matched.
+After round 3: Comp's points: 1
+----------ROUND 4---------- 
+Andrew's points: 1 Comp's points: 1
+Andrew's turn!
+Hit enter to shake the dice box!
+
+Andrew's roll: 
+4, 3, 2
+1 of the die matched, so Andrew gets 1 points.
+Hit enter to shake the dice box again
+
+Andrew's roll: 
+6, 6, 4
+1 of the die matched, so Andrew gets 1 points.
+Hit enter to shake the dice box again
+
+Andrew's roll: 
+2, 4, 2
+1 of the die matched, so Andrew gets 1 points.
+Hit enter to shake the dice box again
+
+Andrew's roll: 
+4, 3, 5
+1 of the die matched, so Andrew gets 1 points.
+Hit enter to shake the dice box again
+
+Andrew's roll: 
+1, 5, 1
+None of the die matched.
+After round 4: Andrew's points: 5
+Comp's turn!
+Comp's roll: 
+2, 4, 4
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+3, 1, 5
+None of the die matched.
+After round 4: Comp's points: 3
+----------ROUND 5---------- 
+Andrew's points: 5 Comp's points: 3
+Andrew's turn!
+Hit enter to shake the dice box!
+
+Andrew's roll: 
+4, 2, 4
+None of the die matched.
+After round 5: Andrew's points: 5
+Comp's turn!
+Comp's roll: 
+6, 6, 1
+None of the die matched.
+After round 5: Comp's points: 3
+----------ROUND 6---------- 
+Andrew's points: 5 Comp's points: 3
+Andrew's turn!
+Hit enter to shake the dice box!
+
+Andrew's roll: 
+6, 1, 6
+2 of the die matched, so Andrew gets 2 points.
+Hit enter to shake the dice box again
+
+Andrew's roll: 
+5, 6, 5
+1 of the die matched, so Andrew gets 1 points.
+Hit enter to shake the dice box again
+
+Andrew's roll: 
+3, 3, 6
+1 of the die matched, so Andrew gets 1 points.
+Hit enter to shake the dice box again
+
+Andrew's roll: 
+1, 2, 3
+None of the die matched.
+After round 6: Andrew's points: 9
+Comp's turn!
+Comp's roll: 
+3, 3, 1
+None of the die matched.
+Congratulations, Andrew, you won with 9 points!
+Total number of games played: 1
+Total number of ties: 0
+Total number of games won by Comp: 0
+Total number of games won by Andrew: 1
+Would you like to play again?
+no
+Goodbye!
+ 
+ 
+ ************************Run Four: Bunco 3 player, 1 player, then 3 player, then 2 player
+ Hello! Welcome to the Bunco game.
+How many players will there be, excluding me?
+3
+Sounds good! What is your name?
+Starr
+Nice to meet you, Starr.
+What is the second person's name?
+Rose
+What is the third person's name?
+Cady
+Welcome to the game, Starr, Rose, and Cady
+To decide who goes first, let's all roll a die. I'll go first:
+I rolled a 5
+Your turn, Starr. Hit enter to roll a die.
+
+Starr rolled a 3
+Your turn, Rose. Hit enter to roll a die.
+
+Rose rolled a 2
+Your turn, Cady. Hit enter to roll a die.
+
+Cady rolled a 4
+Since Comp had the highest roll, Comp will go first.
+----------ROUND: 1---------- 
+Comp's turn!
+Comp's roll: 
+4, 4, 3
+None of the die matched.
+After round 1: Comp's points: 0
+Starr's turn!
+Hit enter to shake the dice box!
+
+Starr's roll: 
+2, 2, 5
+None of the die matched.
+After round 1: Starr's points: 0
+Rose's turn!
+Hit enter to shake the dice box!
+
+Rose's roll: 
+4, 4, 5
+None of the die matched.
+After round 1: Rose's points: 0
+Cady's turn!
+Hit enter to shake the dice box!
+
+Cady's roll: 
+6, 4, 4
+None of the die matched.
+After round 1: Cady's points: 0
+Points at end of round 1
+Comp: 0 Starr: 0 Rose: 0 Cady: 0 
+----------ROUND: 2---------- 
+Comp's turn!
+Comp's roll: 
+6, 4, 2
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 4, 3
+None of the die matched.
+After round 2: Comp's points: 1
+Starr's turn!
+Hit enter to shake the dice box!
+
+Starr's roll: 
+5, 5, 1
+None of the die matched.
+After round 2: Starr's points: 0
+Rose's turn!
+Hit enter to shake the dice box!
+
+Rose's roll: 
+2, 2, 3
+2 of the die matched, so Rose gets 2 points.
+Hit enter to shake the dice box again
+
+Rose's roll: 
+3, 1, 4
+None of the die matched.
+After round 2: Rose's points: 2
+Cady's turn!
+Hit enter to shake the dice box!
+
+Cady's roll: 
+1, 3, 3
+None of the die matched.
+After round 2: Cady's points: 0
+Points at end of round 2
+Comp: 1 Starr: 0 Rose: 2 Cady: 0 
+----------ROUND: 3---------- 
+Comp's turn!
+Comp's roll: 
+3, 1, 2
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 4, 1
+None of the die matched.
+After round 3: Comp's points: 2
+Starr's turn!
+Hit enter to shake the dice box!
+
+Starr's roll: 
+4, 4, 3
+1 of the die matched, so Starr gets 1 points.
+Hit enter to shake the dice box again
+
+Starr's roll: 
+1, 5, 4
+None of the die matched.
+After round 3: Starr's points: 1
+Rose's turn!
+Hit enter to shake the dice box!
+
+Rose's roll: 
+6, 6, 3
+1 of the die matched, so Rose gets 1 points.
+Hit enter to shake the dice box again
+
+Rose's roll: 
+4, 1, 6
+None of the die matched.
+After round 3: Rose's points: 3
+Cady's turn!
+Hit enter to shake the dice box!
+
+Cady's roll: 
+4, 4, 5
+None of the die matched.
+After round 3: Cady's points: 0
+Points at end of round 3
+Comp: 2 Starr: 1 Rose: 3 Cady: 0 
+----------ROUND: 4---------- 
+Comp's turn!
+Comp's roll: 
+4, 2, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+4, 1, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+1, 6, 4
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+1, 2, 2
+None of the die matched.
+After round 4: Comp's points: 5
+Starr's turn!
+Hit enter to shake the dice box!
+
+
+Starr's roll: 
+1, 3, 5
+None of the die matched.
+After round 4: Starr's points: 1
+Rose's turn!
+Hit enter to shake the dice box!
+Rose's roll: 
+4, 1, 4
+2 of the die matched, so Rose gets 2 points.
+Hit enter to shake the dice box again
+
+
+Rose's roll: 
+6, 3, 5
+None of the die matched.
+After round 4: Rose's points: 5
+Cady's turn!
+Hit enter to shake the dice box!
+Cady's roll: 
+1, 3, 6
+None of the die matched.
+After round 4: Cady's points: 0
+Points at end of round 4
+Comp: 5 Starr: 1 Rose: 5 Cady: 0 
+----------ROUND: 5---------- 
+Comp's turn!
+Comp's roll: 
+5, 1, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+6, 1, 6
+None of the die matched.
+After round 5: Comp's points: 6
+Starr's turn!
+Hit enter to shake the dice box!
+
+
+Starr's roll: 
+4, 3, 2
+None of the die matched.
+After round 5: Starr's points: 1
+Rose's turn!
+Hit enter to shake the dice box!
+Rose's roll: 
+2, 1, 6
+None of the die matched.
+After round 5: Rose's points: 5
+Cady's turn!
+Hit enter to shake the dice box!
+
+Cady's roll: 
+6, 3, 2
+None of the die matched.
+After round 5: Cady's points: 0
+Points at end of round 5
+Comp: 6 Starr: 1 Rose: 5 Cady: 0 
+----------ROUND: 6---------- 
+Comp's turn!
+Comp's roll: 
+4, 2, 4
+None of the die matched.
+After round 6: Comp's points: 6
+Starr's turn!
+Hit enter to shake the dice box!
+
+Starr's roll: 
+6, 5, 3
+1 of the die matched, so Starr gets 1 points.
+Hit enter to shake the dice box again
+
+Starr's roll: 
+5, 1, 6
+1 of the die matched, so Starr gets 1 points.
+Hit enter to shake the dice box again
+
+Starr's roll: 
+5, 4, 3
+None of the die matched.
+After round 6: Starr's points: 3
+Rose's turn!
+Hit enter to shake the dice box!
+
+Rose's roll: 
+1, 5, 5
+None of the die matched.
+After round 6: Rose's points: 5
+Cady's turn!
+Hit enter to shake the dice box!
+
+Cady's roll: 
+2, 2, 1
+None of the die matched.
+Points at end of round 6
+Comp: 6 Starr: 3 Rose: 5 Cady: 0 
+Comp won with 6 points!
+1 games have been played
+Comp has won 1 games.
+Starr has won 0 games.
+Rose has won 0 games.
+Cady has won 0 games.
+Would you like to play again?
+
+yes
+Would you like to play with the same players?
+no
+How many players will there be, excluding me?
+1
+Sounds good! What is your name?
+Twyla
+Nice to meet you, Twyla.
+To decide who goes first, let's both shake the die cup! I'll go first!
+I rolled:
+1, 1, 6
+Your turn! Hit enter to shake the dice box
+
+You rolled:
+3, 4, 6
+Since you rolled a higher sum, you'll go first!
+----------ROUND 1---------- 
+Twyla's points: 0 Comp's points: 0
+Twyla's turn!
+Hit enter to shake the dice box!
+
+Twyla's roll: 
+1, 3, 4
+1 of the die matched, so Twyla gets 1 points.
+Hit enter to shake the dice box again
+
+Twyla's roll: 
+1, 6, 5
+1 of the die matched, so Twyla gets 1 points.
+Hit enter to shake the dice box again
+
+Twyla's roll: 
+2, 6, 6
+None of the die matched.
+After round 1: Twyla's points: 2
+Comp's turn!
+Comp's roll: 
+5, 4, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 3, 6
+None of the die matched.
+After round 1: Comp's points: 1
+----------ROUND 2---------- 
+Twyla's points: 2 Comp's points: 1
+Twyla's turn!
+Hit enter to shake the dice box!
+
+Twyla's roll: 
+2, 2, 5
+2 of the die matched, so Twyla gets 2 points.
+Hit enter to shake the dice box again
+
+Twyla's roll: 
+2, 2, 4
+2 of the die matched, so Twyla gets 2 points.
+Hit enter to shake the dice box again
+
+Twyla's roll: 
+6, 5, 2
+1 of the die matched, so Twyla gets 1 points.
+Hit enter to shake the dice box again
+
+Twyla's roll: 
+1, 5, 5
+None of the die matched.
+After round 2: Twyla's points: 7
+Comp's turn!
+Comp's roll: 
+1, 5, 2
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 3, 5
+None of the die matched.
+After round 2: Comp's points: 2
+----------ROUND 3---------- 
+Twyla's points: 7 Comp's points: 2
+Twyla's turn!
+Hit enter to shake the dice box!
+
+Twyla's roll: 
+5, 5, 3
+1 of the die matched, so Twyla gets 1 points.
+Hit enter to shake the dice box again
+
+Twyla's roll: 
+4, 2, 2
+None of the die matched.
+After round 3: Twyla's points: 8
+Comp's turn!
+Comp's roll: 
+2, 2, 1
+None of the die matched.
+After round 3: Comp's points: 2
+----------ROUND 4---------- 
+Twyla's points: 8 Comp's points: 2
+Twyla's turn!
+Hit enter to shake the dice box!
+
+Twyla's roll: 
+5, 5, 4
+1 of the die matched, so Twyla gets 1 points.
+Hit enter to shake the dice box again
+
+Twyla's roll: 
+6, 6, 5
+None of the die matched.
+After round 4: Twyla's points: 9
+Comp's turn!
+Comp's roll: 
+2, 3, 6
+None of the die matched.
+After round 4: Comp's points: 2
+----------ROUND 5---------- 
+Twyla's points: 9 Comp's points: 2
+Twyla's turn!
+Hit enter to shake the dice box!
+
+Twyla's roll: 
+2, 3, 6
+None of the die matched.
+After round 5: Twyla's points: 9
+Comp's turn!
+Comp's roll: 
+6, 6, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+1, 6, 1
+None of the die matched.
+After round 5: Comp's points: 3
+----------ROUND 6---------- 
+Twyla's points: 9 Comp's points: 3
+Twyla's turn!
+Hit enter to shake the dice box!
+
+Twyla's roll: 
+6, 4, 4
+1 of the die matched, so Twyla gets 1 points.
+Hit enter to shake the dice box again
+
+Twyla's roll: 
+1, 3, 3
+None of the die matched.
+After round 6: Twyla's points: 10
+Comp's turn!
+Comp's roll: 
+4, 5, 5
+None of the die matched.
+Congratulations, Twyla, you won with 10 points!
+Total number of games played: 1
+Total number of ties: 0
+Total number of games won by Comp: 0
+Total number of games won by Twyla: 1
+Would you like to play again?
+yes
+Would you like to play with the same players?
+no
+How many players will there be, excluding me?
+3
+Sounds good! What is your name?
+Leaf
+Nice to meet you, Leaf.
+What is the second person's name?
+Laurel
+What is the third person's name?
+Huber
+Welcome to the game, Leaf, Laurel, and Huber
+To decide who goes first, let's all roll a die. I'll go first:
+I rolled a 3
+Your turn, Leaf. Hit enter to roll a die.
+
+Leaf rolled a 2
+Your turn, Laurel. Hit enter to roll a die.
+
+Laurel rolled a 1
+Your turn, Huber. Hit enter to roll a die.
+
+Huber rolled a 5
+Since Huber had the highest roll, Huber will go first.
+----------ROUND: 1---------- 
+Huber's turn!
+Hit enter to shake the dice box!
+
+Huber's roll: 
+3, 2, 4
+None of the die matched.
+After round 1: Huber's points: 0
+Comp's turn!
+Comp's roll: 
+5, 6, 4
+None of the die matched.
+After round 1: Comp's points: 0
+Leaf's turn!
+Hit enter to shake the dice box!
+
+Leaf's roll: 
+4, 4, 6
+None of the die matched.
+After round 1: Leaf's points: 0
+Laurel's turn!
+Hit enter to shake the dice box!
+
+Laurel's roll: 
+3, 4, 1
+1 of the die matched, so Laurel gets 1 points.
+Hit enter to shake the dice box again
+
+Laurel's roll: 
+3, 6, 2
+None of the die matched.
+After round 1: Laurel's points: 1
+Points at end of round 1
+Comp: 0 Leaf: 0 Laurel: 1 Huber: 0 
+----------ROUND: 2---------- 
+Huber's turn!
+Hit enter to shake the dice box!
+
+Huber's roll: 
+4, 5, 4
+None of the die matched.
+After round 2: Huber's points: 0
+Comp's turn!
+Comp's roll: 
+4, 1, 4
+None of the die matched.
+After round 2: Comp's points: 0
+Leaf's turn!
+Hit enter to shake the dice box!
+
+Leaf's roll: 
+1, 2, 3
+1 of the die matched, so Leaf gets 1 points.
+Hit enter to shake the dice box again
+
+Leaf's roll: 
+4, 2, 1
+1 of the die matched, so Leaf gets 1 points.
+Hit enter to shake the dice box again
+
+Leaf's roll: 
+4, 4, 5
+None of the die matched.
+After round 2: Leaf's points: 2
+Laurel's turn!
+Hit enter to shake the dice box!
+
+Laurel's roll: 
+5, 1, 5
+None of the die matched.
+After round 2: Laurel's points: 1
+Points at end of round 2
+Comp: 0 Leaf: 2 Laurel: 1 Huber: 0 
+----------ROUND: 3---------- 
+Huber's turn!
+Hit enter to shake the dice box!
+
+Huber's roll: 
+2, 3, 4
+1 of the die matched, so Huber gets 1 points.
+Hit enter to shake the dice box again
+
+Huber's roll: 
+2, 2, 3
+1 of the die matched, so Huber gets 1 points.
+Hit enter to shake the dice box again
+
+Huber's roll: 
+4, 3, 6
+1 of the die matched, so Huber gets 1 points.
+Hit enter to shake the dice box again
+
+Huber's roll: 
+3, 5, 3
+2 of the die matched, so Huber gets 2 points.
+Hit enter to shake the dice box again
+
+Huber's roll: 
+6, 4, 2
+None of the die matched.
+After round 3: Huber's points: 5
+Comp's turn!
+Comp's roll: 
+6, 4, 4
+None of the die matched.
+After round 3: Comp's points: 0
+Leaf's turn!
+Hit enter to shake the dice box!
+
+Leaf's roll: 
+4, 3, 6
+1 of the die matched, so Leaf gets 1 points.
+Hit enter to shake the dice box again
+
+Leaf's roll: 
+6, 4, 6
+None of the die matched.
+After round 3: Leaf's points: 3
+Laurel's turn!
+Hit enter to shake the dice box!
+
+Laurel's roll: 
+5, 2, 4
+None of the die matched.
+After round 3: Laurel's points: 1
+Points at end of round 3
+Comp: 0 Leaf: 3 Laurel: 1 Huber: 5 
+----------ROUND: 4---------- 
+Huber's turn!
+Hit enter to shake the dice box!
+
+Huber's roll: 
+5, 2, 2
+None of the die matched.
+After round 4: Huber's points: 5
+Comp's turn!
+Comp's roll: 
+1, 5, 4
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+1, 1, 3
+None of the die matched.
+After round 4: Comp's points: 1
+Leaf's turn!
+Hit enter to shake the dice box!
+
+Leaf's roll: 
+6, 4, 5
+1 of the die matched, so Leaf gets 1 points.
+Hit enter to shake the dice box again
+
+Leaf's roll: 
+3, 4, 1
+1 of the die matched, so Leaf gets 1 points.
+Hit enter to shake the dice box again
+
+Leaf's roll: 
+1, 1, 1
+None of the die matched.
+After round 4: Leaf's points: 5
+Laurel's turn!
+Hit enter to shake the dice box!
+
+Laurel's roll: 
+4, 6, 2
+1 of the die matched, so Laurel gets 1 points.
+Hit enter to shake the dice box again
+
+Laurel's roll: 
+3, 2, 3
+None of the die matched.
+After round 4: Laurel's points: 2
+Points at end of round 4
+Comp: 1 Leaf: 5 Laurel: 2 Huber: 5 
+----------ROUND: 5---------- 
+Huber's turn!
+Hit enter to shake the dice box!
+
+Huber's roll: 
+6, 4, 6
+None of the die matched.
+After round 5: Huber's points: 5
+Comp's turn!
+Comp's roll: 
+4, 2, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+1, 3, 4
+None of the die matched.
+After round 5: Comp's points: 2
+Leaf's turn!
+Hit enter to shake the dice box!
+
+Leaf's roll: 
+4, 2, 2
+None of the die matched.
+After round 5: Leaf's points: 5
+Laurel's turn!
+Hit enter to shake the dice box!
+
+Laurel's roll: 
+6, 5, 1
+1 of the die matched, so Laurel gets 1 points.
+Hit enter to shake the dice box again
+
+Laurel's roll: 
+1, 1, 1
+None of the die matched.
+After round 5: Laurel's points: 3
+Points at end of round 5
+Comp: 2 Leaf: 5 Laurel: 3 Huber: 5 
+----------ROUND: 6---------- 
+Huber's turn!
+Hit enter to shake the dice box!
+
+Huber's roll: 
+5, 6, 4
+1 of the die matched, so Huber gets 1 points.
+Hit enter to shake the dice box again
+
+Huber's roll: 
+2, 2, 3
+None of the die matched.
+After round 6: Huber's points: 6
+Comp's turn!
+Comp's roll: 
+3, 6, 3
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+4, 3, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+2, 3, 5
+None of the die matched.
+After round 6: Comp's points: 4
+Leaf's turn!
+Hit enter to shake the dice box!
+
+Leaf's roll: 
+5, 3, 6
+1 of the die matched, so Leaf gets 1 points.
+Hit enter to shake the dice box again
+
+Leaf's roll: 
+6, 6, 4
+2 of the die matched, so Leaf gets 2 points.
+Hit enter to shake the dice box again
+
+Leaf's roll: 
+6, 5, 6
+2 of the die matched, so Leaf gets 2 points.
+Hit enter to shake the dice box again
+
+Leaf's roll: 
+5, 2, 5
+None of the die matched.
+After round 6: Leaf's points: 10
+Laurel's turn!
+Hit enter to shake the dice box!
+
+Laurel's roll: 
+3, 6, 2
+1 of the die matched, so Laurel gets 1 points.
+Hit enter to shake the dice box again
+
+Laurel's roll: 
+2, 3, 2
+None of the die matched.
+Points at end of round 6
+Comp: 4 Leaf: 10 Laurel: 4 Huber: 6 
+Leaf won with 10 points!
+1 games have been played
+Comp has won 0 games.
+Leaf has won 1 games.
+Laurel has won 0 games.
+Huber has won 0 games.
+Would you like to play again?
+
+yes
+Would you like to play with the same players?
+no
+How many players will there be, excluding me?
+2
+Sounds good! What is your name?
+Hai
+Nice to meet you, Hai.
+What is the second person's name?
+Jungbin
+Welcome to the game, Hai and Jungbin
+To decide who goes first, let's all roll a die. I'll go first:
+I rolled a 2
+Your turn, Hai. Hit enter to roll a die.
+
+Hai rolled a 6
+Your turn, Jungbin. Hit enter to roll a die.
+
+Jungbin rolled a 5
+Since Hai had the highest roll, Hai will go first.
+----------ROUND: 1----------
+Hai's turn!
+Hit enter to shake the dice box!
+
+Hai's roll: 
+3, 2, 1
+1 of the die matched, so Hai gets 1 points.
+Hit enter to shake the dice box again
+
+Hai's roll: 
+4, 2, 4
+None of the die matched.
+After round 1: Hai's points: 1
+Jungbin's turn!
+Hit enter to shake the dice box!
+
+Jungbin's roll: 
+5, 1, 1
+2 of the die matched, so Jungbin gets 2 points.
+Hit enter to shake the dice box again
+
+Jungbin's roll: 
+6, 5, 3
+None of the die matched.
+After round 1: Jungbin's points: 2
+Comp's turn!
+Comp's roll: 
+1, 2, 3
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 3, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+4, 3, 3
+None of the die matched.
+After round 1: Comp's points: 2
+Points at end of round 1
+Comp: 2 Hai: 1 Jungbin: 2 
+----------ROUND: 2----------
+Hai's turn!
+Hit enter to shake the dice box!
+
+Hai's roll: 
+3, 6, 5
+None of the die matched.
+After round 2: Hai's points: 1
+Jungbin's turn!
+Hit enter to shake the dice box!
+
+Jungbin's roll: 
+3, 3, 5
+None of the die matched.
+After round 2: Jungbin's points: 2
+Comp's turn!
+Comp's roll: 
+6, 6, 4
+None of the die matched.
+After round 2: Comp's points: 2
+Points at end of round 2
+Comp: 2 Hai: 1 Jungbin: 2 
+----------ROUND: 3----------
+Hai's turn!
+Hit enter to shake the dice box!
+
+Hai's roll: 
+2, 3, 3
+2 of the die matched, so Hai gets 2 points.
+Hit enter to shake the dice box again
+
+Hai's roll: 
+1, 5, 1
+None of the die matched.
+After round 3: Hai's points: 3
+Jungbin's turn!
+Hit enter to shake the dice box!
+
+Jungbin's roll: 
+6, 6, 5
+None of the die matched.
+After round 3: Jungbin's points: 2
+Comp's turn!
+Comp's roll: 
+5, 6, 5
+None of the die matched.
+After round 3: Comp's points: 2
+Points at end of round 3
+Comp: 2 Hai: 3 Jungbin: 2 
+----------ROUND: 4----------
+Hai's turn!
+Hit enter to shake the dice box!
+
+Hai's roll: 
+4, 4, 4
+Hai rolled a Bunco! They get 21 points
+Hit enter to shake the dice box again
+
+Hai's roll: 
+5, 1, 6
+None of the die matched.
+After round 4: Hai's points: 24
+Jungbin's turn!
+Hit enter to shake the dice box!
+
+Jungbin's roll: 
+6, 6, 6
+None of the die matched.
+After round 4: Jungbin's points: 2
+Comp's turn!
+Comp's roll: 
+2, 4, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+1, 1, 6
+None of the die matched.
+After round 4: Comp's points: 3
+Points at end of round 4
+Comp: 3 Hai: 24 Jungbin: 2 
+----------ROUND: 5----------
+Hai's turn!
+Hit enter to shake the dice box!
+
+Hai's roll: 
+1, 4, 2
+None of the die matched.
+After round 5: Hai's points: 24
+Jungbin's turn!
+Hit enter to shake the dice box!
+
+Jungbin's roll: 
+3, 6, 4
+None of the die matched.
+After round 5: Jungbin's points: 2
+Comp's turn!
+Comp's roll: 
+5, 5, 3
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+5, 4, 3
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 4, 5
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 3, 3
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+1, 5, 1
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+5, 4, 5
+2 of the die matched, so Comp gets 2 points.
+Comp's roll: 
+5, 4, 6
+1 of the die matched, so Comp gets 1 points.
+Comp's roll: 
+3, 2, 6
+None of the die matched.
+After round 5: Comp's points: 12
+Points at end of round 5
+Comp: 12 Hai: 24 Jungbin: 2 
+----------ROUND: 6----------
+Hai's turn!
+Hit enter to shake the dice box!
+
+Hai's roll: 
+5, 2, 5
+None of the die matched.
+After round 6: Hai's points: 24
+Jungbin's turn!
+Hit enter to shake the dice box!
+
+Jungbin's roll: 
+5, 1, 3
+None of the die matched.
+After round 6: Jungbin's points: 2
+Comp's turn!
+Comp's roll: 
+2, 3, 1
+None of the die matched.
+Points at end of round 6
+Comp: 12 Hai: 24 Jungbin: 2 
+Hai won with 24 points!
+1 games have been played
+Comp has won 0 games.
+Hai has won 1 games.
+Jungbin has won 0 games.
+Would you like to play again?
+
+no
+Goodbye!
+ 
+ 
